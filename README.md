@@ -14,14 +14,14 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
  - [x] Wyze Cam v3
 	 - Supports CamPlus but not recommended by Wyze
  - [x] Wyze Cam v2
-	 - Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP#setup-cam-plus-on-v2-rtsp)
+	 - Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP/wiki/v2-Cam-Plus-and-RTSP)
  - [x] Wyze Cam Pan v1
 
 # Download RTSP Firmware
 - [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
 - [Wyze Cam v2 Firmware (4.28.4.49 March 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_v2_rtsp_4.28.4.49.bin)
 -  [Wyze Cam Pan Firmware (4.29.4.49 March 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_Pan_rtsp_4.29.4.49.bin)
-# How to Install RSP Firmware
+# How to Install RTSP Firmware
 
  1. Download the Wyze Cam v2 RTSP file, the Wyze Cam v3 RTSP file, or the Wyze Cam Pan RTSP file. Please note that the Wyze Cam Pan firmware file is **not**  compatible with Wyze Cam Pan v2.
  2. Choose which firmware to install:
@@ -46,11 +46,6 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 5.  Click “**Generate URL**”, and the RTSP URL will show on the next screen. Use this for streaming through any RTSP compatible player on the same local network as the Wyze Cam.
 
 _Note: Cam Plus is included on the Wyze Cam v3 RTSP firmware. However, there can be video lag if both functions are streaming video at the same time. We do not recommend running Cam Plus on the RTSP firmware._
-
-
-## Setup Cam Plus on v2 RTSP
-
-
 
 ---
 ### Sources
