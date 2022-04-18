@@ -3,18 +3,24 @@
 Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the downloads from their forums.
 > **[Wyze Update](https://support.wyze.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP) 04/05/2022:** RTSP was considered a beta feature and we are currently assessing the path forward as the firmware versions have aged quite a bit. Wyze has removed the firmware files for these versions for now and will update the pages when plans are finalized. Please note that firmware files take a while to work on and test so you may not see an update in the near future. Wyze apologizes for the inconvenience.
 
-## Highlights
+### Highlights
 - RTSP Downloads
 - How to Install RTSP Firmware
 - How to turn on RTSP
 
 
-## Supported Cameras
+### Supported Cameras
 
  - [x] Wyze Cam v3
+	 - Supports CamPlus but not recommended by Wyze
  - [x] Wyze Cam v2
+	 - Supports CamPlus but special setup required
  - [x] Wyze Cam Pan v1
 
+# Download RTSP Firmware
+- [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
+- [Wyze Cam v2 Firmware (4.28.4.49 March 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_v2_rtsp_4.28.4.49.bin)
+-  [Wyze Cam Pan Firmware (4.29.4.49 March 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_Pan_rtsp_4.29.4.49.bin)
 # How to Install RSP Firmware
 
  1. Download the Wyze Cam v2 RTSP file, the Wyze Cam v3 RTSP file, or the Wyze Cam Pan RTSP file. Please note that the Wyze Cam Pan firmware file is **not**  compatible with Wyze Cam Pan v2.
@@ -42,7 +48,11 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 _Note: Cam Plus is included on the Wyze Cam v3 RTSP firmware. However, there can be video lag if both functions are streaming video at the same time. We do not recommend running Cam Plus on the RTSP firmware._
 
 
+## Setup Cam Plus on v2 RTSP
 
+
+
+---
 ### Sources
 - [WYZE Cam RTSP](https://support.wyze.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP) 
 - WYZE.COM Download links
