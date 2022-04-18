@@ -9,12 +9,12 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 - How to turn on RTSP
 
 
-### Supported Cameras
+### Supported RTSP Cameras
 
  - [x] Wyze Cam v3
 	 - Supports CamPlus but not recommended by Wyze
  - [x] Wyze Cam v2
-	 - Supports CamPlus but special setup required
+	 - Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP#setup-cam-plus-on-v2-rtsp)
  - [x] Wyze Cam Pan v1
 
 # Download RTSP Firmware
