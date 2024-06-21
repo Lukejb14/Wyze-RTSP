@@ -20,7 +20,8 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 # Download RTSP Firmware
 - [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
 	- MD5 Hash:  9a6b59f0c143d7a031adcf27ae52de0a
-- [Wyze Cam v2 Firmware (4.28.4.49 November 2020)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_v2_rtsp_4.28.4.49.bin)
+- [Wyze Cam v2 Firmware (4.28.4.51 April 2023)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_4.28.4.51.bin)
+       - [(Older) Wyze Cam v2 Firmware (4.28.4.49 November 2020)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_v2_rtsp_4.28.4.49.bin)
 -  [Wyze Cam Pan Firmware (4.29.4.49 March 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_Pan_rtsp_4.29.4.49.bin)
 # How to Install RTSP Firmware
 
