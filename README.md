@@ -38,6 +38,12 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 	- _Note: The "Solid Blue" in this case is not the same as the one normally seen on the cameras. It would be lighter and yellowish on Wyze Cam v2 and Pan and purple on Wyze Cam v3._
 6. Once this process is finished, you should see the Wyze Cam in your Home tab **without** going through the setup process as long as it was previously paired with your account.
 
+### Troubleshooting for Installing RTSP Firmware
+1. If installing RTSP firmware didn't work, try formatting your SD card and try to install again:
+	- Cards 32GB and smaller should be set to FAT32.
+	- Cards larger than 32GB should be set to exFAT.
+	- [How to format SD card on Windows or Mac](https://support.wyze.com/hc/en-us/articles/360031488091-How-to-Format-your-microSD-card)
+
 # How to turn on RTSP
 
 1.  Once your Wyze Cam is back online, you can access the RTSP function from the live stream (Wyze app version 2.3 or later) under  **Settings -> Advanced Settings -> RTSP**
