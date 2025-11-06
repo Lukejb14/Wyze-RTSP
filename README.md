@@ -33,9 +33,13 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 # Download RTSP Firmware
 - [Wyze Cam Pan v3 Alpha Firmware (4.55.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/recovery_wyzepan3.bin)
 	- ⚠️ Requires Additional WyzeBeta App Download
-		- iOS WyzeBeta Download - Must open link on Safari browser]
+		- iOS WyzeBeta Download - Must open link on Safari browser
 		- `itms-services://?action=download-manifest&url=https:/wyze-beta.s3.us-west-2.amazonaws.com/manifest.plist`
 		- [Android WyzeBeta Download](https://d1z7w5i616oq48.cloudfront.net/088d8139acdc4006/1412d35fbb77c46c7b986b88f78d6d92/3.9.0.a905/Wyze_3_9_0_a905_057146.apk)
+
+    itms-services://?action=download-manifest&url=https:/wyze-beta.s3.us-west-2.amazonaws.com/manifest.plist
+
+
 - [Wyze Cam v3 Alpha Firmware (4.55.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
 - [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/fd4dd8f84a1ed9a6a7f0f1e1bbf10d96d73e5e98/RTSP_Firmware_Downloads/demo_wcv3.bin)
 	- MD5 Hash:  FD788FF06FD567DBB8188A94A13BA0D7
@@ -53,7 +57,7 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 	 - **For Wyze Cam v3**, transfer the **‘demo_wcv3.bin’** file to a microSD card's root directory
 		 - [Download Wyze Cam v3 Firmware](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
 	 - **For Wyze Cam Pan v3**, transfer the **‘recovery_wyzepan3.bin’** file to a microSD card's root directory
-		 - [Download Wyze Cam v3 Firmware](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/recovery_wyzepan3.bin)
+		 - [Download Wyze Cam Pan v3 Firmware](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/recovery_wyzepan3.bin)
 3. Unplug your Wyze Cam and insert the prepared microSD card ![enter image description here](https://support.wyze.com/hc/article_attachments/360042364711/microSD__1_.png)
 4. Hold the camera's **Setup** button while plugging in the USB cable and continue to hold the **Setup** button until the light turns **solid blue** 🔵 for **Wyze Cam v2 and Pan** or **purple** 🟣 for **Wyze Cam v3** and **Wyze Cam v3**.
 5. Once the light is solid blue, release the **Setup** button and wait for 3-4 minutes. The camera will reboot, and the status light will change during this time.  
