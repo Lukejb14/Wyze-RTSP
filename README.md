@@ -1,3 +1,6 @@
+## RTSP for is now available for **Wyze Cam v3** **Wyze Cam Pan v3**
+As of October 28, 2025
+
 # Wyze RTSP
 
 Download the latest RTSP firmware for Wyze cameras. Wyze.com has removed some downloads from their forums.
