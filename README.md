@@ -43,7 +43,7 @@ Thank you so much for your patience!
 
 
 # Download RTSP Firmware
-- [Wyze Cam Pan v3 Alpha Firmware (4.55.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/recovery_wyzepan3.bin)
+- [Wyze Cam Pan v3 Alpha Firmware (4.36.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/recovery_wyzepan3.bin)
 	- ⚠️ Requires Additional WyzeBeta App Download
 		- **iOS WyzeBeta App Download** - Must open link on Safari browser
 			- `itms-services://?action=download-manifest&url=https:/wyze-beta.s3.us-west-2.amazonaws.com/manifest.plist`
