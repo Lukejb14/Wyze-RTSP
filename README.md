@@ -16,8 +16,9 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
  - [x] Wyze Cam v3
 	 - ✅ Supports CamPlus
  - [x] Wyze Cam v2
-	 - Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP/wiki/v2-Cam-Plus-and-RTSP)
+	 - ⚠️ Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP/wiki/v2-Cam-Plus-and-RTSP)
  - [x] Wyze Cam Pan v1
+	 - ❌ CamPlus not available.
 
 ### Cam v3 and Cam Pan v3 Only Compatibility
 |                |RTSPS                          |RTSP                         |
