@@ -11,9 +11,10 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 
 
 ### Supported RTSP Cameras
-
+ - [x] Wyze Cam Pan v3
+	 - ✅ Supports CamPlus
  - [x] Wyze Cam v3
-	 - Supports CamPlus but not recommended by Wyze
+	 - ✅ Supports CamPlus
  - [x] Wyze Cam v2
 	 - Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP/wiki/v2-Cam-Plus-and-RTSP)
  - [x] Wyze Cam Pan v1
@@ -29,8 +30,11 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 
 
 # Download RTSP Firmware
+- [Wyze Cam Pan v3 Firmware (4.55.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/recovery_wyzepan3.bin)
+- [Wyze Cam v3 Firmware (4.55.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3-2022.bin)
 - [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
 	- MD5 Hash:  FD788FF06FD567DBB8188A94A13BA0D7
+	- Supports CamPlus but not recommended by Wyze
 - [Wyze Cam v2 Firmware (4.28.4.51 April 2023)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_4.28.4.51.bin)
        - [(Older) Wyze Cam v2 Firmware (4.28.4.49 November 2020)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_v2_rtsp_4.28.4.49.bin)
 -  [Wyze Cam Pan Firmware (4.29.4.49 March 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_Pan_rtsp_4.29.4.49.bin)
