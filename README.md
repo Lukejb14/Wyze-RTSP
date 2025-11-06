@@ -1,6 +1,11 @@
 # Wyze RTSP
 
-Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the downloads from their forums.
+Download the latest RTSP firmware for Wyze cameras. Wyze.com has removed some downloads from their forums.
+> **[Wyze Update from @WyzeDave](https://forums.wyze.com/t/rtsp-for-v3-and-pan-v3/338351) 10/28/2025:**
+> Hey! We’ve finally got a beta app for RTSP for v3 and Pan v3.
+Here’s everything you need to get access:  [https://wyze-beta.s3.us-west-2.amazonaws.com/rtsp.html](https://wyze-beta.s3.us-west-2.amazonaws.com/rtsp.html)
+Thank you so much for your patience!
+
 > **[Wyze Update](https://support.wyze.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP) 04/05/2022:** RTSP was considered a beta feature and we are currently assessing the path forward as the firmware versions have aged quite a bit. Wyze has removed the firmware files for these versions for now and will update the pages when plans are finalized. Please note that firmware files take a while to work on and test so you may not see an update in the near future. Wyze apologizes for the inconvenience.
 
 ### Highlights
