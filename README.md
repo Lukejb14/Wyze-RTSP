@@ -5,6 +5,7 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 
 ### Highlights
 - RTSP Downloads
+- Compatibility Chart
 - How to Install RTSP Firmware
 - How to turn on RTSP
 
@@ -16,6 +17,16 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
  - [x] Wyze Cam v2
 	 - Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP/wiki/v2-Cam-Plus-and-RTSP)
  - [x] Wyze Cam Pan v1
+
+### Cam v3 and Cam Pan v3 Only Compatibility
+|                |RTSPS                          |RTSP                         |
+|----------------|-------------------------------|-----------------------------|
+|VLC|❌            |✅            |
+|Home Assistant          |✅            |✅            |
+|FFPlay          |✅            |✅            |
+|OBS          |✅            |✅            |
+|Scrypted          |✅            |✅            |
+
 
 # Download RTSP Firmware
 - [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
