@@ -38,6 +38,11 @@ Download the latest RTSP firmware for Wyze cameras as Wyze.com has removed the d
 			- ![iOS](https://github.com/Lukejb14/Wyze-RTSP/blob/v3_4.36.16.5055/media/ios.gif?raw=true)
 		- [Android WyzeBeta Download](https://d1z7w5i616oq48.cloudfront.net/088d8139acdc4006/1412d35fbb77c46c7b986b88f78d6d92/3.9.0.a905/Wyze_3_9_0_a905_057146.apk)
 - [Wyze Cam v3 Alpha Firmware (4.55.16.5055 October 2025)](https://github.com/Lukejb14/Wyze-RTSP/blob/main/RTSP_Firmware_Downloads/demo_wcv3.bin)
+	- ⚠️ Requires Additional WyzeBeta App Download
+		- **iOS WyzeBeta App Download** - Must open link on Safari browser
+			- `itms-services://?action=download-manifest&url=https:/wyze-beta.s3.us-west-2.amazonaws.com/manifest.plist`
+			- ![iOS](https://github.com/Lukejb14/Wyze-RTSP/blob/v3_4.36.16.5055/media/ios.gif?raw=true)
+		- [Android WyzeBeta Download](https://d1z7w5i616oq48.cloudfront.net/088d8139acdc4006/1412d35fbb77c46c7b986b88f78d6d92/3.9.0.a905/Wyze_3_9_0_a905_057146.apk)
 - [Wyze Cam v3 Firmware (4.61.0.1 September 2021)](https://github.com/Lukejb14/Wyze-RTSP/blob/fd4dd8f84a1ed9a6a7f0f1e1bbf10d96d73e5e98/RTSP_Firmware_Downloads/demo_wcv3.bin)
 	- MD5 Hash:  FD788FF06FD567DBB8188A94A13BA0D7
 	- Supports CamPlus but not recommended by Wyze
