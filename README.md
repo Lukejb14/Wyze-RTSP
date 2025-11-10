@@ -27,6 +27,7 @@ Thank you so much for your patience!
 	 - ✅ Supports CamPlus
  - [x] Wyze Cam v3
 	 - ✅ Supports CamPlus
+	 - ✅ Supports Accessories (Spotlight, Lamp Socket, Floodlight, Garage Door Controller)
  - [x] Wyze Cam v2
 	 - ⚠️ Supports CamPlus but [special setup required](https://github.com/Lukejb14/Wyze-RTSP/wiki/v2-Cam-Plus-and-RTSP)
  - [x] Wyze Cam Pan v1
